@@ -7,8 +7,8 @@ Before writing the code make sure you have OpenCV installed in your environment.
 
 ### OpenCV
 
-pip install opencv-python
-pip install opencv-python-headless
+pip install opencv-python<br />
+pip install opencv-python-headless<br />
 pip install opencv-contrib-python
 
 ### pandas
@@ -47,5 +47,5 @@ A more clear vision is observed when you will be able to see a bokeh graph appea
 
 ### References
 
-[Edureka](https://www.youtube.com/watch?v=-ZrDjwXZGxI)
+[Edureka](https://www.youtube.com/watch?v=-ZrDjwXZGxI)<br />
 [Geeksforgeeks](https://www.geeksforgeeks.org/webcam-motion-detector-python/)
